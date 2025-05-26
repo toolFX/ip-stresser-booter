@@ -1,6 +1,10 @@
 # 💥 IP STRESSER & IP BOOTER | THE #1 FREE DDOS STRESSER
 
-## DUMPCORD.SU | t.me/dumpcord
+## 🌐 Website
+
+https://dumpcord.su
+
+---
 
 In today’s world, **performance matters**. Whether you're a solo developer, startup founder, or security researcher, you need to know how your website will react under extreme traffic. That's where our **advanced stress testing service** comes in 💻🔥
 
@@ -68,10 +72,6 @@ Don’t wait for a real attack to find your weak spots. Run a professional-grade
 **Ready to launch your first test?**  
 👉 Contact us — we support **private test setups**, **custom payloads**, and **stealth mode testing**.
 
-## 🌐 Website
-
-https://dumpcord.su
-
 ## 🗝️ Keywords
 - IP STRESSER 
 - IP BOOTER 
@@ -80,4 +80,4 @@ https://dumpcord.su
 - FREE DDOS STRESSER 
 - FREE DDOS BOOTER 
 - FREE IP BOOTER 
-- FREE IP STRESSER.
+- FREE IP STRESSER
