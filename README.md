@@ -78,4 +78,4 @@ Don’t wait for a real attack to find your weak spots. Run a professional-grade
 - FREE DDOS STRESSER 
 - FREE DDOS BOOTER 
 - FREE IP BOOTER 
-- FREE IP STRESSER.
+- FREE IP STRESSER
